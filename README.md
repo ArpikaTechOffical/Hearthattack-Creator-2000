@@ -6,16 +6,14 @@
 <body>
 
 <h1>Welcome to the Hearthattack Creator 2000!</h1>
-<p>by:ArpikaTech.</p>
+</p>by:ArpikaTech</p>
+</p> Welcome to the Hearthattack Creator 2000! This will
+  cause your teacher a heartattack like stuff!</p>
 
-</head>
-<body>
-
-<h2>Commands Used!<h2>
-
-<p1>dir (cmd)<p1>
-<p1>cd (cmd)</p1>
-<p1>msgbox (vbs)</p1>
+<h1>Commands Used!<h1>
+</p>dir (cmd)</p>
+</p>cd (cmd)</p>
+</p>msmgbox (vbs)</p>
 
 </body>
 </html>
