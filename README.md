@@ -8,7 +8,7 @@
 <h1>Welcome to the Hearthattack Creator 2000!</h1>
 </p>by:ArpikaTech</p>
 </p> Welcome to the Hearthattack Creator 2000! This will
-  cause your teacher a heartattack like stuff!</p>
+  cause your teacher a heartattack like stuff in Windows!</p>
 
 <h1>Commands Used!<h1>
 </p>dir (cmd)</p>
