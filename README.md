@@ -22,3 +22,4 @@
 <p>1.If The computer has restrictions that prevents the command to Access the
 Files in System32 for the "Dir" Command, IT WON'T WORK!.</p>
 <p>2.Don't worry, this was just a harmless prank! Your PC will be Fine!.</p>
+<p>3.This only works in Windows!.</p>
